@@ -13,3 +13,8 @@ ALL IN ONE LOL (INSP ARDHA27)
 ## HOLOLIVE RVC MODELS (DRIVE VERSION)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/hololive_rvc_models_v2.ipynb)
+
+
+## DOWNLOAD YT WAV AND SPLITTING AUDIO 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
+
