@@ -8,6 +8,14 @@ ALL IN ONE LOL (INSP by ARDHA27)
 ## Other link commig soon
 
 
+
+
+
+# AiCoverGen mod
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/AICoverGen_colab_mod.ipynb)
+
+
+
 # AiCoverGen COLAB NOTEBOOK
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SociallyIneptWeeb/AICoverGen/blob/main/AICoverGen_colab.ipynb)
 
