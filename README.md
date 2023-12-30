@@ -1,6 +1,8 @@
-# RCV-AI-COVER-ALL
-ALL IN ONE LOL (INSP ARDHA27)
-## please leave a star if this repo helps 😁
+# RCV AI COVER ALL
+
+ALL IN ONE LOL (INSP by ARDHA27)
+
+## please leave a star if this repo helpsfull 😁
 
 
 ## Other link commig soon
@@ -17,4 +19,9 @@ ALL IN ONE LOL (INSP ARDHA27)
 
 ## DOWNLOAD YT WAV AND SPLITTING AUDIO 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
+
+
+## MANGIO RVC fork 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/RVC_w_crepe_%26_crepe_tiny_(Mangio_RVC_Fork)_(EXPERIMENTAL).ipynb
+)
 
