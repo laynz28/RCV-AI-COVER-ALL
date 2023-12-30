@@ -8,6 +8,9 @@ ALL IN ONE LOL (INSP by ARDHA27)
 ## Other link commig soon
 
 
+# RVC EASY WEBUI (UPDATED)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/RVC_AI_COVER.ipynb)
+
 
 
 
