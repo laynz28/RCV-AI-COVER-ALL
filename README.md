@@ -5,18 +5,8 @@ ALL IN ONE LOL (INSP by ARDHA27)
 ## please leave a star if this repo helpsfull 😁
 
 
-## Other link commig soon
-
-
-# RVC EASY WEBUI (UPDATED)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/RVC_AI_COVER.ipynb)
-
-
-
-
 # AiCoverGen mod
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/AICoverGen_colab_mod.ipynb)
-
 
 
 # AiCoverGen COLAB NOTEBOOK
@@ -35,4 +25,9 @@ ALL IN ONE LOL (INSP by ARDHA27)
 ## MANGIO RVC fork 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/RVC_w_crepe_%26_crepe_tiny_(Mangio_RVC_Fork)_(EXPERIMENTAL).ipynb
 )
+
+
+
+# applio Rvc Fork 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/laynz28/RCV-AI-COVER-ALL/blob/main/Applio_RVC%20%201_22_24.ipynb)
 
